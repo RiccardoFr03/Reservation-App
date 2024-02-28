@@ -1,6 +1,8 @@
 # cloud_craft_solution
 
-A new Flutter project.
+This is a flutter application created as a project for ITS.
+The purpose of the app is to give a company's employees the possibility to book classrooms in advance to hold meetings or reserve their position in the office.
+Back-end it was created in C# .NET7, all hosted on Azure.
 
 ## Getting Started
 
